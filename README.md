@@ -5,8 +5,7 @@ I’m experienced in a wide range of testing types, including manual, API, regre
 
 🔭 Currently, I am honing my skills in test automation, focusing on WebDriverIO with JavaScript to drive efficient and reliable automated tests.
 
-🔗 Connect with me on LinkedIn
-
+📫 You can reach me at valerie.voloshina@gmail.com
 <!--
 **valeriya-v/Valeriya-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
