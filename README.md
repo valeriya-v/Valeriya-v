@@ -1,5 +1,6 @@
 ## Hi, I'm Valeriya 👋
 👩‍💻 QA Engineer
+
 I’m experienced in a wide range of testing types, including manual, API, regression, cross-browser, exploratory, and mobile testing, using various tools and techniques to ensure high-quality software.
 
 🔭 Currently, I am honing my skills in test automation, focusing on WebDriverIO with JavaScript to drive efficient and reliable automated tests.
