@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Valeriya 👋
+👩‍💻 QA Engineer
+I’m experienced in a wide range of testing types, including manual, API, regression, cross-browser, exploratory, and mobile testing, using various tools and techniques to ensure high-quality software.
+
+🔭 Currently, I am honing my skills in test automation, focusing on WebDriverIO with JavaScript to drive efficient and reliable automated tests.
+
+🔗 Connect with me on LinkedIn
 
 <!--
 **valeriya-v/Valeriya-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
